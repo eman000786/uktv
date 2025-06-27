@@ -1,0 +1,7 @@
+UkTvStreamHub/
+├── client/
+│   └── (your Vite frontend)
+├── server/
+│   └── (your Node/Express backend)
+├── render.yaml
+├── package.json (optional root for monorepo tools, if needed)
